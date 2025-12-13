@@ -94,3 +94,12 @@ Certifique-se de que o arquivo `STARLINK-34935.txt` esteja no mesmo diretório q
 - [Space-Track.org](https://www.space-track.org/) – Fonte oficial de TLEs para objetos espaciais
 
 
+You can reach me at rmilhomem[at]gmail[dot]com or connect on [LinkedIn](https://www.linkedin.com/in/rodolfo-space-force/) for collaborations.
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
+
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
+
