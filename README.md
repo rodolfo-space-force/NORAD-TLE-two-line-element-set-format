@@ -81,7 +81,6 @@ Certifique-se de que o arquivo `STARLINK-34935.txt` esteja no mesmo diretório q
 ##  Requisitos
 
 - Python 3.x
-- Nenhuma biblioteca externa necessária além da `json` (incluída na biblioteca padrão)
 
 ---
 
