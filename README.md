@@ -6,7 +6,9 @@ Este projeto em Python realiza a leitura, interpretação e exportação de dado
 TLEs são formatos padronizados para descrever a posição orbital e os parâmetros de movimento de objetos espaciais. 
 
 Este script permite extrair essas informações de maneira estruturada e salvar os dados em formato JSON para uso posterior.
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB500?style=for-the-badge&logo=national-instruments&logoColor=black)](https://github.com/topics/labview)
 ---
 
 ##  Estrutura do Arquivo TLE
